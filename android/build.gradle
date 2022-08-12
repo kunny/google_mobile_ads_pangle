@@ -5,9 +5,6 @@ buildscript {
     repositories {
         google()
         mavenCentral()
-        maven {
-            url 'https://artifact.bytedance.com/repository/pangle/'
-        }
     }
 
     dependencies {
@@ -19,6 +16,9 @@ rootProject.allprojects {
     repositories {
         google()
         mavenCentral()
+        maven {
+            url 'https://artifact.bytedance.com/repository/pangle/'
+        }
     }
 }
 
