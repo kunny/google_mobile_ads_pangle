@@ -25,6 +25,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'com.androidhuman.plugins.google_mobile_ads_pangle'
     compileSdkVersion 31
 
     compileOptions {
@@ -37,6 +38,6 @@ android {
     }
 
     dependencies {
-        implementation 'com.google.ads.mediation:pangle:4.5.0.3.0'
+        implementation 'com.google.ads.mediation:pangle:5.2.0.6.0'
     }
 }
