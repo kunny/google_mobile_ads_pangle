@@ -1,3 +1,9 @@
+## Version 2.2.0
+
+* Supports [Pangle Android adapter version 5.2.0.6.0](https://github.com/googleads/googleads-mobile-android-mediation/blob/main/ThirdPartyAdapters/pangle/CHANGELOG.md#version-52060).
+* Supports [Pangle iOS adapter version 5.2.0.9.0](https://github.com/googleads/googleads-mobile-ios-mediation/blob/main/adapters/Pangle/CHANGELOG.md#version-52090).
+
+
 ## Version 1.1.0
 
 * Initial release.
