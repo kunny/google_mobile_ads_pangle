@@ -16,8 +16,8 @@ Google Mobile Ads mediation plugin for Pangle.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationPangle', '5.2.0.9.0'
-  s.platform = :ios, '10.0'
+  s.dependency 'GoogleMobileAdsMediationPangle', '5.3.1.2.0'
+  s.platform = :ios, '12.0'
   s.static_framework = true
 
   # Flutter.framework does not contain a i386 slice.
